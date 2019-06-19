@@ -1,0 +1,20 @@
+{
+    "name": "paramount-network/yellowstone-season-2-episode-1-tv-streaming",
+    "description": "Watch Yellowstone Season 2 Episode 1 Online Free putlocker S02e01 WATCH FULL EPISODES HERE (CLICK LINK BELOW TO WATCHING)",
+	"keywords": ["Yellowstone Season 2 Episode 1 Online"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WATCH HERE : https://t.co/CgsvJ13aon",
+            "homepage": "https://t.co/CgsvJ13aon",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
